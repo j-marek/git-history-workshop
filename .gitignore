@@ -1,3 +1,6 @@
 .DS_Store
 *.log
 node_modules/
+
+# Internal documentation - keep local only
+HOW_TO_REPLICATE.md
